@@ -33,8 +33,9 @@ Your model can be found in the folder `data/models/your_file_name` with the name
 python onnx_export.py --model-dir=models/traffic
 ```
 You will find a file inside /models/traffic with name resnet34.onnx. The file will depends on the pretrained model name that you use during the training. Besides, you can download the file from my google drive, 
-'''
+```
 gdown https(kau punya link google drive)
+```
 
 ### _Third Step: Testing on Jetson Nano:_
 
