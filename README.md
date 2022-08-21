@@ -11,6 +11,9 @@ The project is to classify the traffic sign using the image classification metho
 ```
 git clone https://github.com/dusty-nv/jetson-inference.git
 ```
+```
+pip install -r requirements.txt
+```
 A github repositary created by Dusty Franklin, NVIDIA jetson developer.
 
 2. Then, a folder name 'jetson-inference' will be created and go to ./python/examples in the folder.
